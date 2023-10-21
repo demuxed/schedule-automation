@@ -1,7 +1,6 @@
 {
-  "repository": "https://github.com/vercel/examples.git",
+  "repository": "https://github.com/demuxed/schedule-automation",
   "license": "MIT",
-  "private": true,
   "devDependencies": {
     "@types/node": "^17.0.42",
     "@vercel/node": "^2.9.6",
